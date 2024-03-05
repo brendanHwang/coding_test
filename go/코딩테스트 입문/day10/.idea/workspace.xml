@@ -5,11 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1c76b86-3772-4bbf-a225-ce72669a0434" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2차원으로 만들기/solution.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2차원으로 만들기/solution_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/점의 위치 구하기/solution.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/점의 위치 구하기/solution_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day9/개미 군단/main.go" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../알고리즘 고득점 kit/완전탐색/소수 찾기/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../알고리즘 고득점 kit/탐욕법/체육복/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../알고리즘 고득점 kit/탐욕법/체육복/main_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../코딩 기초 트레이닝/day10/문자열 뒤집기/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../코딩 기초 트레이닝/day10/문자열 뒤집기/main_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../코딩 기초 트레이닝/day10/문자열의 앞의 n글자/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../코딩 기초 트레이닝/day10/접두사인지 확인하기/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/공 던지기/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../알고리즘 고득점 kit/소수 찾기/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../알고리즘 고득점 kit/완전탐색/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../알고리즘 고득점 kit/완전탐색/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../알고리즘 고득점 kit/완전탐색/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../알고리즘 고득점 kit/완전탐색/.idea/완전탐색.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../알고리즘 고득점 kit/완전탐색/소수 찾기/solution/solution.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../알고리즘 고득점 kit/완전탐색/소수 찾기/solution/solution_test.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,34 +40,34 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2aslc6xVVjIvmXbT1F63ZS7L5P9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultGoTemplateProperty": "Go File",
-    "Go Test.go test 2d.executor": "Run",
-    "Go Test.go test dot.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
-    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "git-widget-placeholder": "main",
-    "go.import.settings.migrated": "true",
-    "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "/Users/hwangdong-ug/Documents/coding_test/go/코딩테스트 입문/day10",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;Go Test.go test 2d.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.go test dot.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.automatic.dependencies.download&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/hwangdong-ug/Documents/coding_test/go/코딩테스트 입문/day10&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Go Test.go test 2d">
     <configuration name="go test 2d" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="day10" />
